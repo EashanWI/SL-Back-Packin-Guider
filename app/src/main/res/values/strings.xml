@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">project_Phase1</string>
+    <string name="payment">Payment Methods</string>
+    <string name="btnNext">Next</string>
+    <string name="selectmethod">please choose a payment method to</string>
+    <string name="selectmethod2">complete your valuable order</string>
+    <string name="cdnumber">Card Number</string>
+    <string name="edtcard">1234 5678 1900 1200</string>
+    <string name="date">Expiry Date</string>
+    <string name="edtdate">13/08</string>
+    <string name="cvv">CVV</string>
+    <string name="edtcvv">769</string>
+    <string name="name">Name</string>
+    <string name="edtname">suraj deshitha</string>
+    <string name="saving">I agree with above filled details </string>
+    <string name="btn_add">ADD CARD</string>
+</resources>
