@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204339944188",
+    "firebase_url": "https://sl-backpacking-guiders-default-rtdb.firebaseio.com",
+    "project_id": "sl-backpacking-guiders",
+    "storage_bucket": "sl-backpacking-guiders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204339944188:android:fa5a20c211159225c49579",
+        "android_client_info": {
+          "package_name": "com.example.eduxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204339944188-42rs256ajcjqk7j681edafmd454iitbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRoQ4KGoghO0h3YYHuNl7Uu1daTTGS3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204339944188-42rs256ajcjqk7j681edafmd454iitbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

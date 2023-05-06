@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EDUXO</string>
+    <string name="PackageDetails">Package  Details</string>
+    <string name="packageadd">Add Packages</string>
+</resources>
