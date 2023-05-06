@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877637416320",
+    "project_id": "slbackpackingvehicle",
+    "storage_bucket": "slbackpackingvehicle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877637416320:android:bc97498fd0af4ec8bb7d65",
+        "android_client_info": {
+          "package_name": "com.example.eduxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877637416320-34pg8gu10ktuesotrclshel3081ee598.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35lAkhc4cPTKovRVUlOmaJ2JvBx75Vp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877637416320-34pg8gu10ktuesotrclshel3081ee598.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
